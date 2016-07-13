@@ -1,0 +1,54 @@
+body{
+	font-family: 'Modern Antiqua', cursive;
+}
+
+#header-wrapper{
+	width: 100%;
+	background-color: #3b5998;
+	height: 50px;
+	font-family: 'Modern Antiqua', cursive;
+}
+
+#header{
+	max-width: 900px;
+	height: 50px;
+	margin: auto;
+}
+
+#logo{
+	float:left;
+	height: 50px;
+}
+
+#logo img{
+	height: 50px;
+}
+
+#right-header-wrapper{
+	float:right;
+}
+
+
+#search-bar {
+	float:left;
+}
+
+#right-header-wrapper #nav{
+	float:right;
+	background-color: #687aac;
+}
+
+#nav .nav-menu{
+	float:right;
+}
+
+#nav .nav-menu li{
+	float: left;
+	margin: 17px;
+	color: white;
+	padding-right: 10px;
+
+}
+
+
+
