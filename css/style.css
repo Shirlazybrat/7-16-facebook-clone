@@ -117,7 +117,12 @@ img{
 }
 
 #main-nav li{
-	/* box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75); */
+	box-shadow: 11px 9px 10px 0px rgba(0,0,0,0.75);
+	background-color: #fff;
+}
+
+ul #wall{
+	background-color: lightblue;
 }
 
 #main-nav ul li{
